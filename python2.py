@@ -73,6 +73,7 @@ name1=23
 name2=24
 print(name1 >= name2 or name1<=name2)
 print(name1==name2 and name1<name2)
+print(not num1<num2)
 name3='chalew is small'
 name4='shamero is bigg'
 print(name3==name4)
