@@ -187,14 +187,3 @@ print('bezih aynet meged substring mawtat echilalen',x[-22:-1])
 #and to format or concatinate like this
 x="your boobs is {} and yor age {}"
 print('concatinate snaderg demo like bezih aynet meged new',x.format('bigg',23))
-
-
-
-
-
-
-
-
-
-
-
