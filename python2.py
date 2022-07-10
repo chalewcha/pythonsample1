@@ -13,10 +13,6 @@ and opreators are classified in to 7 some of them are
 
 
 #arithmetic
-from ast import Not, operator
-from turtle import width
-
-
 print('operators\t\tname\t\t\texample')
 print('+\t\t\tadition\t\t\tx + y\n\n-\t\t\tsub\t\t\tx - y\n\n*\t\t\tmult\t\t\tx * y\n\n/\t\t\tdivi\t\t\tx / y\n\n%\t\t\tmodulus\t\t\tx % y\n\n**\t\t\texponentistion\t\tx ** y\n\n//\t\t\tfloor divi\t\tx // y')
 num1=34
@@ -77,6 +73,7 @@ name1=23
 name2=24
 print(name1 >= name2 or name1<=name2)
 print(name1==name2 and name1<name2)
+print(not num1<num2)
 name3='chalew is small'
 name4='shamero is bigg'
 print(name3==name4)
